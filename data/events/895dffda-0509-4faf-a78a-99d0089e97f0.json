@@ -1,0 +1,32 @@
+{
+  "audiovisual_files": {
+    "56d791d3-3603-466a-af55-59b7b300c688": {
+      "label": "Version 1",
+      "is_offline": false,
+      "file_url": "https://youtu.be/85v7TJAOayw?feature=shared",
+      "duration": 509
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Video",
+  "label": "Multi-AV Video Event",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Multi-AV Event"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-03-04T15:22:58.747Z",
+  "created_by": "SteveMarvin",
+  "updated_at": "2025-03-04T15:22:58.747Z",
+  "updated_by": "SteveMarvin"
+}

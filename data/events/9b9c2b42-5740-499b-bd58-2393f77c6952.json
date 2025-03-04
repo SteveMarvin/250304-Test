@@ -1,0 +1,32 @@
+{
+  "audiovisual_files": {
+    "c78c12ab-6bcf-427c-9da9-8646aed3836c": {
+      "label": "AV File 1",
+      "is_offline": false,
+      "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/149/546/original/spokenweb__readings___discussion_by_ifeoma_chinwuba_and_titilope_sonuga_%281080p%29.mp4?1645720663",
+      "duration": 296
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Video",
+  "label": "Readings and Discussion Featuring UAlberta Writer in Residence Ifeoma Chinwuba and Edmonton Poet Laureate Titilope Sonuga",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-03-04T15:22:58.747Z",
+  "created_by": "SteveMarvin",
+  "updated_at": "2025-03-04T15:22:58.747Z",
+  "updated_by": "SteveMarvin"
+}

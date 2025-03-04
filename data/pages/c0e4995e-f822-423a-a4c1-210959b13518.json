@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-03-04T15:22:58.954Z",
+  "created_by": "SteveMarvin",
+  "title": "Imported Event 1",
+  "slug": "imported-event-1",
+  "updated_at": "2025-03-04T15:22:58.954Z",
+  "updated_by": "SteveMarvin",
+  "parent": "67a77757-cb61-4902-af2a-b0be122de4dc",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "acd6e554-ecc9-4f06-861f-d0134cd3cee7"
+  }
+}
