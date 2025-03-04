@@ -1,5 +1,38 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "uuid": "4c5150c1-f6fe-4bce-8f4f-e6287fd90893",
+      "start_time": 0.5,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Web is always changing"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e99a4599-9a1f-4b73-b3fb-ae491b58e5eb",
+      "start_time": 2.5,
+      "end_time": 4.3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and the way we access it is changing"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ],
   "set": "Default",
   "event_id": "acd6e554-ecc9-4f06-861f-d0134cd3cee7",
   "source_id": "8ea5725c-d5ca-4757-850d-75bc264e9b26"
